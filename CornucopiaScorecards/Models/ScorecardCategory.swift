@@ -11,6 +11,7 @@ struct ScorecardCategory: Identifiable, Hashable {
     static let all: [ScorecardCategory] = [
         ScorecardCategory(title: "Organic Eggs", csvFileName: "cornucopia_organic_eggs", systemImage: "circle.grid.2x2.fill"),
         ScorecardCategory(title: "Organic Dairy", csvFileName: "cornucopia_organic_dairy", systemImage: "drop.fill"),
+        ScorecardCategory(title: "Organic Milk", csvFileName: "cornucopia_organic_milk", systemImage: "mug.fill"),
         ScorecardCategory(title: "Organic Beef", csvFileName: "cornucopia_organic_beef", systemImage: "flame.fill"),
         ScorecardCategory(title: "Organic Poultry", csvFileName: "cornucopia_organic_poultry", systemImage: "bird.fill"),
         ScorecardCategory(title: "Organic Soy Food", csvFileName: "cornucopia_organic_soy_food", systemImage: "leaf.fill"),
