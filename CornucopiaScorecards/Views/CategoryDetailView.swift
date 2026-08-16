@@ -7,11 +7,40 @@ struct CategoryDetailView: View {
     @State private var searchText = ""
     @State private var sortColumnIndex = 0
     @State private var sortAscending = true
+    @State private var selectedProductFilters: Set<String> = []
+    @State private var isShowingFilterSheet = false
 
     private let nameColumnIndex = 0
 
     private var searchPlaceholder: String {
         table.headers[safe: nameColumnIndex] ?? "name"
+    }
+
+    private var filterColumnIndex: Int? {
+        guard let name = category.filterColumnName else { return nil }
+        return table.headers.firstIndex(of: name)
+    }
+
+    private var filterOptions: [String] {
+        guard let filterColumnIndex else { return [] }
+        var displayByKey: [String: String] = [:]
+        for row in table.rows {
+            guard let raw = row.values[safe: filterColumnIndex] else { continue }
+            for token in productTokens(from: raw) {
+                let key = token.lowercased()
+                if displayByKey[key] == nil {
+                    displayByKey[key] = token
+                }
+            }
+        }
+        return displayByKey.values.sorted { $0.localizedCaseInsensitiveCompare($1) == .orderedAscending }
+    }
+
+    private func productTokens(from rawValue: String) -> [String] {
+        rawValue
+            .components(separatedBy: ",")
+            .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
+            .filter { !$0.isEmpty }
     }
 
     private var filteredSortedRows: [ScorecardRow] {
@@ -21,6 +50,14 @@ struct CategoryDetailView: View {
             rows = rows.filter { row in
                 guard let name = row.values[safe: nameColumnIndex] else { return false }
                 return name.localizedCaseInsensitiveContains(searchText)
+            }
+        }
+
+        if let filterColumnIndex, !selectedProductFilters.isEmpty {
+            rows = rows.filter { row in
+                guard let raw = row.values[safe: filterColumnIndex] else { return false }
+                let rowKeys = Set(productTokens(from: raw).map { $0.lowercased() })
+                return !rowKeys.isDisjoint(with: selectedProductFilters)
             }
         }
 
@@ -59,6 +96,11 @@ struct CategoryDetailView: View {
         .navigationTitle(category.title)
         .navigationBarTitleDisplayMode(.inline)
         .toolbar {
+            if category.filterColumnName != nil {
+                ToolbarItem(placement: .navigationBarTrailing) {
+                    filterButton
+                }
+            }
             ToolbarItem(placement: .navigationBarTrailing) {
                 sortMenu
             }
@@ -66,10 +108,25 @@ struct CategoryDetailView: View {
         .navigationDestination(for: BrandNavigationTarget.self) { target in
             BrandDetailView(target: target)
         }
+        .sheet(isPresented: $isShowingFilterSheet) {
+            ProductFilterSheet(
+                columnLabel: category.filterColumnName ?? "Product",
+                options: filterOptions,
+                selected: $selectedProductFilters
+            )
+        }
         .onAppear {
             if table.headers.isEmpty {
                 table = CSVLoader.loadTable(named: category.csvFileName)
             }
+        }
+    }
+
+    private var filterButton: some View {
+        Button {
+            isShowingFilterSheet = true
+        } label: {
+            Image(systemName: selectedProductFilters.isEmpty ? "line.3.horizontal.decrease.circle" : "line.3.horizontal.decrease.circle.fill")
         }
     }
 
