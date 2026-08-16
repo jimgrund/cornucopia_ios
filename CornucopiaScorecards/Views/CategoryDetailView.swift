@@ -118,6 +118,10 @@ struct CategoryDetailView: View {
         .onAppear {
             if table.headers.isEmpty {
                 table = CSVLoader.loadTable(named: category.csvFileName)
+                if let ratingIndex = table.headers.firstIndex(where: { $0.lowercased() == "rating" }) {
+                    sortColumnIndex = ratingIndex
+                }
+                sortAscending = false
             }
         }
     }
