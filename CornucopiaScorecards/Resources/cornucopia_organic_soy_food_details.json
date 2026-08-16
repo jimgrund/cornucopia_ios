@@ -1,0 +1,3855 @@
+[
+  {
+    "name": "Rhapsody Natural Foods",
+    "url": "https://www.cornucopia.org/scorecard/soy/rhapsody-natural-foods/",
+    "summary": null,
+    "totalScore": "980",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "980"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Rhapsody Natural Foods"
+      },
+      {
+        "label": "Location",
+        "value": "Montpelier, VT"
+      },
+      {
+        "label": "Products",
+        "value": "tempeh, miso, natto"
+      },
+      {
+        "label": "Market Area",
+        "value": "Northeast"
+      },
+      {
+        "label": "Web Site",
+        "value": "https://rhapsodynaturalfoods.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "100",
+        "comment": "Family Business owned by two farmers",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "90",
+        "comment": "Not fully organic due to shortage of organic small beans suited for natto",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "VOF",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "Natto is non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "100",
+        "comment": "Sources from Canada, working to find Vermont source",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "100",
+        "comment": "100% GMO free",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "no flavors used",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Eden Foods",
+    "url": "https://www.cornucopia.org/scorecard/soy/eden-foods/",
+    "summary": "Eden Foods readily shared contact information for the farmers who grow organic soybeans for their EdenSoy (soymilk) products. Based on our follow up research, we have no reason to question their claim that all soybeans used in their EdenSoy products come from American farmers with whom they have long-term and stable relationships. The farmers whom we contacted are dedicated to organic principles, and very much appreciate Eden Foods’ commitment to supporting their diverse organic farms.",
+    "totalScore": "955",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "955"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Eden Foods"
+      },
+      {
+        "label": "Location",
+        "value": "Clinton, MI"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk, soybeans, tofu, miso, soy sauce, ponzu sauce"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide and International"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.edenfoods.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "80",
+        "comment": "Family Business",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "90",
+        "comment": "95% organic, 5% non-GMO",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "OCIA",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "95% Organic, 5% Non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "95",
+        "comment": "Products are manufactured by a copacker with full disclosure; joint venture part owned by Eden Foods",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "100",
+        "comment": "100% directly from North American farmers; visited the farms",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "100",
+        "comment": "GMO tests performed on 100% of incoming loads",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "Only organic food ingredients used for flavors, such as organic vanilla extract",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Hodo",
+    "url": "https://www.cornucopia.org/scorecard/soy/hodo/",
+    "summary": "Hodo Soy is an independent tofu maker on the West Coast.",
+    "totalScore": "920",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "920"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Hodo"
+      },
+      {
+        "label": "Location",
+        "value": "Oakland, CA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, soymilk, noodles, burgers"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.hodofoods.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "70",
+        "comment": "Privately held",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% Organic purchases",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "CCOF",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "98% organic",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "No co-packers used",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "90",
+        "comment": "Sources directly from growers",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "70",
+        "comment": "Producer tests and certifies GMO-free",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "Only certified organic flavors used",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "No lecithin used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "FarmSoy",
+    "url": "https://www.cornucopia.org/scorecard/soy/farmsoy/",
+    "summary": "FarmSoy is an employee-owned business that handcrafts tofu, using organic soybeans bought directly from domestic family farmers. FarmSoy readily shared the names of the organic farmers who grow the organic soybeans used in their tofu and soy yogurt products.",
+    "totalScore": "920",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "920"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Farm Foods LLC"
+      },
+      {
+        "label": "Location",
+        "value": "Summertown, TN"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, soy yogurt, tempeh"
+      },
+      {
+        "label": "Market Area",
+        "value": "Middle TN and greater Nashville area"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.farmfoodsllc.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "90",
+        "comment": "Employee-owned business",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% Organic Purchases",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and complete disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "Quality Certification Services",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "100",
+        "comment": "100% Organic Products",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "90",
+        "comment": "100% directly from American farmers; farms not visited",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "no testing",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Unisoya",
+    "url": "https://www.cornucopia.org/scorecard/soy/unisoya/",
+    "summary": "Unisoya is a Canadian tofu company owned and operated by two brothers who are organic farmers. The organic fields where the soybeans are grown are located right next to their tofu plant. Not all tofu made by Unisoya is certified organic; the non-organic soybeans are purchased from a neighboring farmer.",
+    "totalScore": "920",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "920"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Unisoya"
+      },
+      {
+        "label": "Location",
+        "value": "Quebec, Canada"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, meatless sausage"
+      },
+      {
+        "label": "Market Area",
+        "value": "West"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.unisoya.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "100",
+        "comment": "Family Business owned by two farmers",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "10% organic soybeans grown by the owners; 90% conventional non-GMO",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "OCIA",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "10% Organic, 90% non-GMO, no GMOs",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "100",
+        "comment": "The company owners are the farmers",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "100",
+        "comment": "GMO tests performed on 100% of incoming loads",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "Only spices",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "SoyBoy",
+    "url": "https://www.cornucopia.org/scorecard/soy/soyboy/",
+    "summary": "Northern Soy, makers of SoyBoy, was founded in 1976 and remains an independent company that is still managed by the original founders. They readily shared all sourcing information. They source a portion of their soybeans directly from family farmers; when these family farmers do not have enough soybeans to sell, Northern Soy works with brokers and specifies that they only want organic soybeans grown as close as possible to their New York plant.",
+    "totalScore": "915",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "915"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Northern Soy Inc."
+      },
+      {
+        "label": "Location",
+        "value": "Rochester, NY"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, tempeh, tofu ravioli, tofu hot dogs, okra burgers"
+      },
+      {
+        "label": "Market Area",
+        "value": "East"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.soyboy.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "70",
+        "comment": "Privately Owned",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% of our soybean purchases are for certified organic and non-GMO soybeans.",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "91% of our sales are for certified organic or",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "90",
+        "comment": "Soybeans are purchased from New York farmers and from brokers who supply Northern American Soybeans from within 250 miles. Tofu byproducts (soybean pulp) are given to local organic farmers.",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "100",
+        "comment": "Non-GMO Project certified and comply with all of their testing and documentation requirements.",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "90",
+        "comment": "Only have one legacy product (veggie not dogs) that has flavorings that we are unable to source in an organic compatible form.",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "None used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Twin Oaks",
+    "url": "https://www.cornucopia.org/scorecard/soy/twin-oaks/",
+    "summary": "Twin Oaks Community Foods is a worker-owned cooperative that produces tofu, tempeh and soymilk made with organic soybeans bought directly from a Virginia farm. They readily shared with us the name of the farm and we were able to confirm that they do indeed buy directly from this family farm in their home state. Twin Oaks Community Foods is a wonderful example of a brand connected directly to the hard-working farmers who produce food.",
+    "totalScore": "910",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "910"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Twin Oaks Community Foods"
+      },
+      {
+        "label": "Location",
+        "value": "Louisa, VA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, tempeh, soymilk, mushroom pate"
+      },
+      {
+        "label": "Market Area",
+        "value": "Mid-Atlantic"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.twinoakstofu.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "90",
+        "comment": "Worker-owned Cooperative",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% Organic Purchases",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "QCS",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "99% Organic Products, 1% Conventional non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "90",
+        "comment": "100% directly from American farmers; farms are not visited",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "no testing",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "organic natural flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Tofu Shop",
+    "url": "https://www.cornucopia.org/scorecard/soy/tofu-shop/",
+    "summary": "Tofu Shop is an independently owned artisan soyfoods company based in California. They scored highly on all categories and go the extra mile in areas for which we didn’t even create a category. For example, the cocoa used to flavor their chocolate soymilk is fair-trade, and they make special efforts to reduce waste. Tofu Shop also sources exclusively North American grown soybeans.",
+    "totalScore": "900",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "900"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Tofu Shop Specialty Foods Inc."
+      },
+      {
+        "label": "Location",
+        "value": "Arcata, CA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "West"
+      },
+      {
+        "label": "Web Site",
+        "value": "tofushop.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "70",
+        "comment": "tightly held corporation/sole proprietorship",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% Organic Purchases",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "CCOF",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "100",
+        "comment": "100% Organic Products",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "80",
+        "comment": "Company purchases North American soybeans from a broker - sourcing verified",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "50",
+        "comment": "Company buys from a broker that performs GMO Contamination tests occasionally",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "Organic herbs and spices in tofu; organic vanilla extract, organic fair-trade cocoa and other organic ingredients used to flavor soymilk",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Miso Master",
+    "url": "https://www.cornucopia.org/scorecard/soy/miso-master/",
+    "summary": "Great Eastern Sun’s products are naturally fermented and unpasteurized, making them a great choice for consumers looking for traditional soy foods.Great Eastern Sun shared its sourcing information; they purchase American-grown organic soybeans directly from a family farm.",
+    "totalScore": "890",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "890"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Great Eastern Sun"
+      },
+      {
+        "label": "Location",
+        "value": "Asheville, NC"
+      },
+      {
+        "label": "Products",
+        "value": "miso"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.great-eastern-sun.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "80",
+        "comment": "Sole Proprietorship",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "90",
+        "comment": "99% organic",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "OCIA",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "95% organic",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "90",
+        "comment": "100% directly from family farmers; farms not visited",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "no testing",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Surata",
+    "url": "https://www.cornucopia.org/scorecard/soy/surata/",
+    "summary": "Surata is a small independent tofu maker on the West Coast.",
+    "totalScore": "890",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "890"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Surata Foods"
+      },
+      {
+        "label": "Location",
+        "value": "Eugene, OR"
+      },
+      {
+        "label": "Products",
+        "value": "tofu and tempeh"
+      },
+      {
+        "label": "Market Area",
+        "value": "West"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.suratasoy.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "80",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "100",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "30",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "80",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Fresh Tofu",
+    "url": "https://www.cornucopia.org/scorecard/soy/fresh-tofu/",
+    "summary": "Fresh Tofu buys USA-grown soybeans directly from organic farmers close to home. Although they carry some products that are not certified organic, they use organic soybeans in all their products.",
+    "totalScore": "885",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "885"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Fresh Tofu Inc."
+      },
+      {
+        "label": "Location",
+        "value": "Allentown, PA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, tempeh, vegetarian sandwiches, tofu spreads, Tofu \"No Egg\" Salad"
+      },
+      {
+        "label": "Market Area",
+        "value": "East"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.freshtofu.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "80",
+        "comment": "Family Business",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% Organic Purchases",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and Open Disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "89% Organic, 2% \"made with organic\" and 9% non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "100",
+        "comment": "100% directly from North American farmers, company owner visits the farms",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "No testing",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "only food ingredients used, no flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Tofurky",
+    "url": "https://www.cornucopia.org/scorecard/soy/tofurky/",
+    "summary": "Turtle Island Foods is an independently owned company driven by vegetarian values. “Tofurky” is a household name with vegetarians. Their products are guaranteed to be processed without the use of hexane, something which is rare with meat substitutes and veggie burgers.",
+    "totalScore": "850",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "850"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "Turtle Island Foods"
+      },
+      {
+        "label": "Location",
+        "value": "Hood River, OR"
+      },
+      {
+        "label": "Products",
+        "value": "Tofurky, tempeh, Tempeh Superburgers"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide and Canada"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.tofurky.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "80",
+        "comment": "Family Business",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% Organic Purchases",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "100",
+        "comment": "OTCO",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "Tofurky line is not certified organic",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "60",
+        "comment": "company purchases soybeans from a broker who claims to provide only North American soybeans, but these claims could not be verified",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "100",
+        "comment": "testing on 100% of incoming loads",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "50",
+        "comment": "100% non-organic",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "House Foods",
+    "url": "https://www.cornucopia.org/scorecard/soy/house-foods/",
+    "summary": null,
+    "totalScore": "825",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "825"
+      },
+      {
+        "label": "Rating",
+        "value": "5"
+      },
+      {
+        "label": "Company",
+        "value": "House Foods America Corporation"
+      },
+      {
+        "label": "Location",
+        "value": "Los Angeles, CA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide and International"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.house-foods.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "60",
+        "comment": "House Foods Corporation, Japan: public corporation",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "Less than 85% organic, no GMOs",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "Less than 85% organic",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "70",
+        "comment": "company buys US-grown soybeans through brokers who shared a country of origin statement",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "100",
+        "comment": "testing on 100% of incoming loads",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "no flavors used",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Central Soyfoods",
+    "url": "https://www.cornucopia.org/scorecard/soy/central-soyfoods/",
+    "summary": "Central Soy is a small tofu and tempeh company in Kansas, and one of its partners is an organic farmer who grows most of the beans used in their tofu products. Additional soybeans are grown by farmers in Kansas and neighboring states that are part of the Kansas Organic Producers Association, an organic farmer marketing cooperative.",
+    "totalScore": "780",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "780"
+      },
+      {
+        "label": "Rating",
+        "value": "4"
+      },
+      {
+        "label": "Company",
+        "value": "Central Soyfoods"
+      },
+      {
+        "label": "Location",
+        "value": "Lawrence, KS"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, tempeh"
+      },
+      {
+        "label": "Market Area",
+        "value": "Kansas and Missouri"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "80",
+        "comment": "Limited Liability Corporation with direct ties to farmers",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% organic",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and Open Disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "none",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "100% Made with Organic Soybeans",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "100",
+        "comment": "100% directly from Kansas organic farmers (and neighboring states)",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "No testing",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "100",
+        "comment": "organic flavors and extracts",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Nasoya",
+    "url": "https://www.cornucopia.org/scorecard/soy/nasoya/",
+    "summary": "Nasoya tofu is produced in Ayer, Massachusetts, by Vitasoy-USA. Vitasoy-USA provided full and open disclosure. Vitasoy-USA bought mostly domestically grown organic soybeans, but also a fair percentage from China and Brazil to meet demand. Incoming loads are tested for GMO contamination.",
+    "totalScore": "778",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "778"
+      },
+      {
+        "label": "Rating",
+        "value": "4"
+      },
+      {
+        "label": "Company",
+        "value": "Vitasoy USA"
+      },
+      {
+        "label": "Location",
+        "value": "Ayer, MA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.nasoya.com/"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "60",
+        "comment": "100% owned by Vitasoy International Limited, Inc. of Hong Kong",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "50% Organic, 50% Non-GMO",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "47% organic, 53% non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "all manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "48",
+        "comment": "Company purchases domestic (60%), Chinese (39%) and Brazilian (1%) soybeans through brokers for its tofu",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "100",
+        "comment": "testing on 100% of incoming loads",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "75",
+        "comment": "15% certified organic and 85% non-organic natural flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Wildwood",
+    "url": "https://www.cornucopia.org/scorecard/soy/wildwood/",
+    "summary": "Wildwood was founded by one of the original pioneers of the American soyfoods movement, and has since merged with a Korean corporation to form Wildwood Pulmuone. Wildwood Pulmuone provided full and open disclosure. They source both domestic and Chinese organic soybeans. Their Chinese soybeans are grown on farms that are closely inspected by Wildwood Pulmuone representatives to ensure that farmers follow the USDA organic standards. Wildwood Pulmuone also maintained a long-standing relationship with a Midwestern organic farmer.",
+    "totalScore": "771",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "771"
+      },
+      {
+        "label": "Rating",
+        "value": "4"
+      },
+      {
+        "label": "Company",
+        "value": "Pulmuone Wildwood Inc."
+      },
+      {
+        "label": "Location",
+        "value": "Fullerton, CA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, tofu veggie patties, soy yogurt, cultured soy drink, soymilk, soymilk creamer"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide and Canada"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.wildwoodfoods.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "60",
+        "comment": "98% owned by Pulmuone Ltd. of South Korea",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "80% organic, 20% non-organic, non-GMO",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "85",
+        "comment": "QAI, OTCO and IDALS",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "75% Organic, 5% \"made with organic\" and 20% non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "98",
+        "comment": "Some products are manufactured in-house, some products are manufactured by a copacker with full sourcing information",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "56",
+        "comment": "Company sources both domestic and Chinese soybeans. Company representatives inspect farms in China. Long-term relationships with American farmer suppliers.",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "80",
+        "comment": "company tests occasionally and has internal monitoring program in place",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "75",
+        "comment": "50% organic flavors and extracts, 50% non-organic natural flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "97",
+        "comment": "non-organic soy lecithin in soymilk creamer",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "365",
+    "url": "https://www.cornucopia.org/scorecard/soy/365/",
+    "summary": null,
+    "totalScore": "740",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "740"
+      },
+      {
+        "label": "Rating",
+        "value": "4"
+      },
+      {
+        "label": "Company",
+        "value": "Whole Foods Market"
+      },
+      {
+        "label": "Location",
+        "value": "Austin, TX"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide and International"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.wholefoodsmarket.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "60",
+        "comment": "publicly trade corporation",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "company purchased less than 85% organic products, no GMO's",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "Company markets less than 85% organic products",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "90",
+        "comment": "Products manufactured by a copacker with full and open disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "80",
+        "comment": "Most soybeans are US-grown, a small percentage of Chinese soybeans were used due to short supply of US-grown",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "Company plans to enroll all soy products in the Non-GMO Project",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "75",
+        "comment": "some flavors certified organic but not all",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "O'Soy",
+    "url": "https://www.cornucopia.org/scorecard/soy/osoy/",
+    "summary": "Stonyfield Farms started out as a farmstead biodynamic/organic yogurt producer and has now become one of the largest players in organic dairy. The company is owned by Groupe Lactalis. They now also carry a cultured soy product, O’Soy.",
+    "totalScore": "695",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "695"
+      },
+      {
+        "label": "Rating",
+        "value": "3"
+      },
+      {
+        "label": "Company",
+        "value": "Stonyfield Farms"
+      },
+      {
+        "label": "Location",
+        "value": "Londonderry, NH"
+      },
+      {
+        "label": "Products",
+        "value": "soy yogurt"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.stonyfield.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "65",
+        "comment": "Danone-France 80%",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "100",
+        "comment": "100% Organic",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "50",
+        "comment": "Partial Disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "90",
+        "comment": "100% \"\"made with organic\"\"",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "Company would not disclose sourcing information",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "Company claims its supplier tests 100% of incoming loads, but these claims could not be verified",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "75",
+        "comment": "combination of organic and non-organic natural flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used in cultured soy products",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Vitasoy",
+    "url": "https://www.cornucopia.org/scorecard/soy/vitasoy/",
+    "summary": "Vitasoy soymilk is marketed by Vitasoy-USA, and is available in Canada and the Caribbean. Vitasoy-USA readily shared their sourcing information, but they do not buy directly from family farmers. Their supplier would not disclose the sourcing of their organic soybeans, but our research indicates that their supplier works directly with North-American organic farmers.",
+    "totalScore": "670",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "670"
+      },
+      {
+        "label": "Rating",
+        "value": "3"
+      },
+      {
+        "label": "Company",
+        "value": "Vitasoy USA"
+      },
+      {
+        "label": "Location",
+        "value": "Ayer, MA"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Canada and International"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.vitasoy-usa.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "60",
+        "comment": "100% owned by Vitasoy International Limited, Inc. of Hong Kong",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "50% Organic, 50% Non-GMO",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "47% organic, 53% non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "60",
+        "comment": "Products are manufactured by a copacker; our research indicates that the supplier uses North American-grown soybeans, but the supplier did not participate in the project.",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "no information available from copacker",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "75",
+        "comment": "15% certified organic and 85% non-organic natural flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Soyganic",
+    "url": "https://www.cornucopia.org/scorecard/soy/soyganic/",
+    "summary": "Sunrise Soy Foods is a Canadian soyfoods company. They manufacture primarily non-organic, non-GMO soy foods, but their Soyganic line is organic. They readily shared their sourcing information with us. They do not buy directly from family farmers, but buy North American-grown soybeans from Canadian brokers.",
+    "totalScore": "665",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "665"
+      },
+      {
+        "label": "Rating",
+        "value": "3"
+      },
+      {
+        "label": "Company",
+        "value": "Sunrise Soya Foods"
+      },
+      {
+        "label": "Location",
+        "value": "Vancouver, BC, Canada"
+      },
+      {
+        "label": "Products",
+        "value": "tofu, soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Northwest, Northeast and Canada"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.sunrise-soya.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "70",
+        "comment": "Privately owned",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "10% Organic, 90% non-GMO purchases",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "10% organic, 90% non-GMO, no GMOs",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "100",
+        "comment": "All manufacturing done in-house",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "60",
+        "comment": "Company purchases North American soybeans from a broker, but these claims could not be verified",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "no testing",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "50",
+        "comment": "non-organic natural flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "50",
+        "comment": "non organic lecithin",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Harris Teeter",
+    "url": "https://www.cornucopia.org/scorecard/soy/harris-teeter/",
+    "summary": "Harris Teeter is one of the few grocery store companies with a private label soymilk to participate in our project. They provided full and open sourcing disclosure.",
+    "totalScore": "605",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "605"
+      },
+      {
+        "label": "Rating",
+        "value": "3"
+      },
+      {
+        "label": "Company",
+        "value": "Harris Teeter"
+      },
+      {
+        "label": "Location",
+        "value": "Matthews, NC"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk, edamame"
+      },
+      {
+        "label": "Market Area",
+        "value": "Mid-Atlantic and Southeast"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.harristeeter.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "60",
+        "comment": "investor owned",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "30",
+        "comment": "company also purchases conventional, no non-GMO policy",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "100",
+        "comment": "Full and open disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "30",
+        "comment": "company has private label products with an organic line",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "90",
+        "comment": "Products are manufactured by a copacker with full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "30",
+        "comment": "Company identified copacker; copacker participated but sourcing of soybeans could not be verified. Our research indicates that the supplier provides a fair percentage of North American-grown organic soybeans.",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "40",
+        "comment": "no testing",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "50",
+        "comment": "non-organic natural flavors",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "100",
+        "comment": "none used",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Trader Joe's",
+    "url": "https://www.cornucopia.org/scorecard/soy/trader-joes-4/",
+    "summary": "Trader Joe’s is one of the few grocery store companies with private label soyfoods to participate in our project, but did not share sourcing information, so the soybeans used in their soymilk, tofu and other soyfoods could not be traced.",
+    "totalScore": "385",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "385"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Trader Joe's"
+      },
+      {
+        "label": "Location",
+        "value": "Monrovia, CA"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk, tofu, others"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.traderjoes.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "70",
+        "comment": "Privately owned",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "60",
+        "comment": "20% organic, 80% Non-GMO (no GMOs)",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "50",
+        "comment": "Partial disclosure; no sourcing information",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "75",
+        "comment": "QAI",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "60",
+        "comment": "10% organic, 10% made with organic, 80% non-GMO",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "copackers not identified",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "copackers not identified",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "70",
+        "comment": "occasional testing on finished product",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "no answer",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "no answer",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Wild Harvest",
+    "url": "https://www.cornucopia.org/scorecard/soy/wild-harvest/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Wild Harvest organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Wild Harvest"
+      },
+      {
+        "label": "Location",
+        "value": "Eden Prairie, MN"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.wildharvestorganic.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Laura Lynn",
+    "url": "https://www.cornucopia.org/scorecard/soy/laura-lynn/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Laura Lynn organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Ingles Markets"
+      },
+      {
+        "label": "Location",
+        "value": "Asheville, NC"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "South"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.ingles-markets.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Full Circle",
+    "url": "https://www.cornucopia.org/scorecard/soy/full-circle/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Full Circle organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Full Circle"
+      },
+      {
+        "label": "Location",
+        "value": "Skokie, IL"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.fullcirclefoods.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Greenwise",
+    "url": "https://www.cornucopia.org/scorecard/soy/greenwise/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Greenwise organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Publix"
+      },
+      {
+        "label": "Location",
+        "value": "Lakeland, FL"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "South"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.publix.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Giant Eagle",
+    "url": "https://www.cornucopia.org/scorecard/soy/giant-eagle/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Giant Eagle organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Nature's Basket"
+      },
+      {
+        "label": "Location",
+        "value": "Pittsburgh, PA"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Mid-Atlantic"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.gianteagle.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Pathmark",
+    "url": "https://www.cornucopia.org/scorecard/soy/pathmark/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Pathmark organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Pathmark"
+      },
+      {
+        "label": "Location",
+        "value": "Clarkston, WA"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Mid-Atlantic"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.pathmark.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Best Choice",
+    "url": "https://www.cornucopia.org/scorecard/soy/best-choice/",
+    "summary": "Best Choice Foods provides foods for schools, hospitals, prisons, etc. They did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Best Choice organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Best Choice"
+      },
+      {
+        "label": "Location",
+        "value": "Fort Worth, TX"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.bestchoicefoods.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "organic vanilla flavor",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Weis Markets",
+    "url": "https://www.cornucopia.org/scorecard/soy/weis-markets/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Weis Markets organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Weis Markets"
+      },
+      {
+        "label": "Location",
+        "value": "Sunbury, PA"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Mid-Atlantic"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.weismarkets.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Nature's Place",
+    "url": "https://www.cornucopia.org/scorecard/soy/natures-place/",
+    "summary": "Private label, or store-brand, companies in the one-bean category did not participate in the project, but through our research we were able to determine that at least some of the soybeans used in Nature’s Place organic soymilk are sourced from North American organic family farmers.",
+    "totalScore": "115",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "115"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Company",
+        "value": "Nature's Place"
+      },
+      {
+        "label": "Location",
+        "value": "Salisbury, NC"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Northeast"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.hannaford.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "no disclosure",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "75",
+        "comment": "Products are manufactured by copackers, at least one of which provided full disclosure",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "40",
+        "comment": "Our research indicates that the supplier uses North American-grown organic soybeans, but the supplier did not participate in the project",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Silk",
+    "url": "https://www.cornucopia.org/scorecard/soy/silk/",
+    "summary": "Silk is manufactured by WhiteWave, which is owned by Groupe Danone.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Grupo Danone"
+      },
+      {
+        "label": "Location",
+        "value": "Broomfield, CO"
+      },
+      {
+        "label": "Products",
+        "value": "soy beverage"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.silk.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Kirkland",
+    "url": "https://www.cornucopia.org/scorecard/soy/kirkland-2/",
+    "summary": "Organic consumers are often interested in knowing the story behind their food, where the food was grown and how it was processed, but store brand products are inherently anonymous. The store contracts with a manufacturer to produce the private label foods, and often the manufacturer relies on additional middlemen. Tracing the soybeans to the source is therefore often a difficult endeavor. Direct relationships between the brand and organic farmers are nonexistent.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Costco"
+      },
+      {
+        "label": "Location",
+        "value": "Seattle, WA"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.costco.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "ShopRite",
+    "url": "https://www.cornucopia.org/scorecard/soy/shoprite-3/",
+    "summary": "Organic consumers are often interested in knowing the story behind their food, where the food was grown and how it was processed, but store brand products are inherently anonymous. The store contracts with a manufacturer to produce the private label foods, and often the manufacturer relies on additional middlemen. Tracing the soybeans to the source is therefore often a difficult endeavor. Direct relationships between the brand and organic farmers are nonexistent.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Shop Rite"
+      },
+      {
+        "label": "Location",
+        "value": "Edison, NJ"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Mid-Atlantic"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.shoprite.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Mori Nu Tofu",
+    "url": "https://www.cornucopia.org/scorecard/soy/mori-nu-tofu/",
+    "summary": "Morinaga Nutritional Foods refused to participate and their sourcing information could not be verified. If you enjoy their products, we would encourage you to contact the company and ask them to participate in the Cornucopia research study and scorecard.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Morinaga Nutritional Foods Inc."
+      },
+      {
+        "label": "Location",
+        "value": "Torrance, CA"
+      },
+      {
+        "label": "Products",
+        "value": "tofu"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.morinu.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "O Organics",
+    "url": "https://www.cornucopia.org/scorecard/soy/o-organics/",
+    "summary": "Organic consumers are often interested in knowing the story behind their food, where the food was grown and how it was processed, but store brand products are inherently anonymous. The store contracts with a manufacturer to produce the private label foods, and often the manufacturer relies on additional middlemen. Tracing the soybeans to the source is therefore often a difficult endeavor. Direct relationships between the brand and organic farmers are nonexistent.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Albertson's/Supervalu"
+      },
+      {
+        "label": "Location",
+        "value": "Eden Prairie, MN"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.albertsons.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Wegmans",
+    "url": "https://www.cornucopia.org/scorecard/soy/wegmans-2/",
+    "summary": "Organic consumers are often interested in knowing the story behind their food, where the food was grown and how it was processed, but store brand products are inherently anonymous. The store contracts with a manufacturer to produce the private label foods, and often the manufacturer relies on additional middlemen. Tracing the soybeans to the source is therefore often a difficult endeavor. Direct relationships between the brand and organic farmers are nonexistent.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Wegmans"
+      },
+      {
+        "label": "Location",
+        "value": "Rochester, NY"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk, tofu, soybean oil, soy sauce"
+      },
+      {
+        "label": "Market Area",
+        "value": "Mid-Atlantic"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.wegmans.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Lightlife",
+    "url": "https://www.cornucopia.org/scorecard/soy/lightlife/",
+    "summary": "Lightlife refused to participate and their sourcing information could not be verified. If you enjoy their products, we would encourage you to contact the company and ask them to participate in the Cornucopia research study and scorecard.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Maple Leaf Foods"
+      },
+      {
+        "label": "Location",
+        "value": "Turner's Falls, MA"
+      },
+      {
+        "label": "Products",
+        "value": "Tempeh"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      },
+      {
+        "label": "Web Site",
+        "value": "www.lightlife.com"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  },
+  {
+    "name": "Good and Gather",
+    "url": "https://www.cornucopia.org/scorecard/soy/good-and-gather/",
+    "summary": "Organic consumers are often interested in knowing the story behind their food, where the food was grown and how it was processed, but store brand products are inherently anonymous. The store contracts with a manufacturer to produce the private label foods, and often the manufacturer relies on additional middlemen. Tracing the soybeans to the source is therefore often a difficult endeavor. Direct relationships between the brand and organic farmers are nonexistent.",
+    "totalScore": "0",
+    "possibleScore": "1000",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Company",
+        "value": "Target"
+      },
+      {
+        "label": "Location",
+        "value": "Minneapolis, MN"
+      },
+      {
+        "label": "Products",
+        "value": "soymilk"
+      },
+      {
+        "label": "Market Area",
+        "value": "Nationwide"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Ownership Structure",
+        "points": "0",
+        "comment": "",
+        "description": "Family-farmer owned businesses receive the most points, investor owned corporations the fewest."
+      },
+      {
+        "criteria": "Percentage Organic Soybean Purchases",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects a company’s commitment to purchasing organic soybeans."
+      },
+      {
+        "criteria": "Disclosure of Information for Verification",
+        "points": "0",
+        "comment": "",
+        "description": "Companies committed to transparency receive the most points."
+      },
+      {
+        "criteria": "Organic Certifier",
+        "points": "0",
+        "comment": "",
+        "description": "Reflects the integrity of the company’s chosen organic certifying organization."
+      },
+      {
+        "criteria": "Organic Product Line",
+        "points": "0",
+        "comment": "",
+        "description": "Companies selling only organic products receive the most points."
+      },
+      {
+        "criteria": "Manufacturing",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that manufacture in-house receive the most points."
+      },
+      {
+        "criteria": "Sourcing and Farmer Relationships",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that purchase directly from farmers receive the most points; companies that buy through brokers selling imports receive the fewest."
+      },
+      {
+        "criteria": "Prevention of GMO Contamination",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that are committed to preventing GMO contamination receive the most points."
+      },
+      {
+        "criteria": "Flavors",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not add flavor or add only certified organic natural flavor receive the most points."
+      },
+      {
+        "criteria": "Soy Lecithin",
+        "points": "0",
+        "comment": "",
+        "description": "Companies that do not use soy lecithin or that use certified organic soy lecithin receive the most points."
+      }
+    ]
+  }
+]

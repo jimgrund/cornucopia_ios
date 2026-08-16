@@ -1,0 +1,637 @@
+[
+  {
+    "name": "Good Culture",
+    "url": "https://www.cornucopia.org/scorecard/dairy/good-culture/",
+    "summary": "Good Culture did not participate in Cornucopia’s survey and investigation, which impacted the information we provide here along with their score. If you are a customer of this brand, please reach out and ask them to cooperate with Cornucopia’s investigation!",
+    "totalScore": "10",
+    "possibleScore": "1100",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "10"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Products",
+        "value": "Cottage Cheese, Lactose Free Cottage Cheese"
+      },
+      {
+        "label": "Website",
+        "value": "https://goodculture.com/"
+      },
+      {
+        "label": "Market Area",
+        "value": "West, Northeast"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Transparency and Disclosure",
+        "points": "0",
+        "comment": "Did not participate, limited reliable information found",
+        "description": ""
+      },
+      {
+        "criteria": "Milk Supply and Ownership Structure",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Brands that rate highest have a close relationship to their milk suppliers. Those that buy milk from industrial or unknown organic suppliers rate lowest."
+      },
+      {
+        "criteria": "Commitment to Organic Label",
+        "points": "10",
+        "comment": "Sells both conventional and organic dairy products",
+        "description": "Brands that only produce organic products make the biggest investments — in time and money — in the organic systems that benefit us all."
+      },
+      {
+        "criteria": "Pasture Management",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Pasture management refers to how outdoor areas are managed, with top-rated brands utilizing multiple strategies to maintain high quality pasture, providing environmental and animal welfare benefits."
+      },
+      {
+        "criteria": "Grass Fed Percentage",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "The grass-fed percentage category reflects diet, with top-rated brands far exceeding the minimum requirements laid out in the organic pasture rule."
+      },
+      {
+        "criteria": "Supplemental Feed and Ingredients",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "This category focuses on the sourcing of feed, supplements, and any added ingredients in the diet. The category also accounts for brands that source organic dairy from other operations. Top-rated brands produce all feed on farm or buy inputs locally."
+      },
+      {
+        "criteria": "Calves",
+        "points": "0",
+        "comment": "Unknown; likely removed immediately and individually housed",
+        "description": "Industry standard is to immediately remove calves from their mothers and individually house them. High scores in this area show that brand suppliers use group housing or otherwise promote calf socialization."
+      },
+      {
+        "criteria": "Times Milked Per Day",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "High scoring brands milk only once or twice per day, allowing maximum time for cows to be outside exhibiting natural behaviors."
+      },
+      {
+        "criteria": "Deaths & Culls",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Lower cull and death rates receive more points (with some exceptions), as it is one indicator of high animal welfare."
+      },
+      {
+        "criteria": "Environmental Impacts and Stewardship",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Brands that closely monitor environmental factors, including soil and water quality, native species, and wildlife, receive the most points. Brands with specific policies and programs to boost environmental sustainability also receive high points."
+      },
+      {
+        "criteria": "Animal Welfare",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Brands with specific policies and practices to support animal welfare score best. Brands may lose points in this category if they have a history of animal welfare concerns."
+      },
+      {
+        "criteria": "Organic Certifier (Informational)",
+        "points": "",
+        "comment": "Unknown (determined by supplier)",
+        "description": "This category is non-scoring and provided for information."
+      },
+      {
+        "criteria": "Add On Labels (Informational)",
+        "points": "",
+        "comment": "Unknown (check packaging)",
+        "description": "Third-party labels carried by individual brands or product lines are listed here for more information. These are not scored, but some third-party labels may receive extra credit."
+      },
+      {
+        "criteria": "Herd Size(s) (Informational)",
+        "points": "",
+        "comment": "Unknown",
+        "description": "Herd size refers to the number of adult cows in the milking herd. The general denotation for herd size (large, medium, and small) is based on the legal definition of “Concentrated Animal Feeding Operation”."
+      },
+      {
+        "criteria": "Extra Credit",
+        "points": "",
+        "comment": "None",
+        "description": "Brands may receive extra credit for practices and polices not reflected in the scorecard (see notes for details)."
+      },
+      {
+        "criteria": "Adjustments & Notes",
+        "points": "",
+        "comment": "None",
+        "description": "The adjustment section is where any notes and adjustments to the score are indicated, such as penalties for non-compliances."
+      }
+    ]
+  },
+  {
+    "name": "Humboldt Creamery (Foster Farms Dairy)",
+    "url": "https://www.cornucopia.org/scorecard/dairy/humboldt-creamery-foster-farms-dairy/",
+    "summary": "Humboldt Creamery did not participate in Cornucopia’s survey and investigation, which impacted their score and the information provided here. If you are a customer of this brand, please reach out and ask them to cooperate with Cornucopia’s investigation!",
+    "totalScore": "275",
+    "possibleScore": "1100",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "275"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Products",
+        "value": "Fluid Milk, Cottage Cheese, Sour Cream"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.humboldtcreamery.com/"
+      },
+      {
+        "label": "Market Area",
+        "value": "National"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Transparency and Disclosure",
+        "points": "25",
+        "comment": "Did not participate, but some information found",
+        "description": ""
+      },
+      {
+        "criteria": "Milk Supply and Ownership Structure",
+        "points": "25",
+        "comment": "Organic line sourced from mixed-scale suppliers and likley maintains some split operations",
+        "description": "Brands that rate highest have a close relationship to their milk suppliers. Those that buy milk from industrial or unknown organic suppliers rate lowest."
+      },
+      {
+        "criteria": "Commitment to Organic Label",
+        "points": "25",
+        "comment": "Brand markets both conventional and organic",
+        "description": "Brands that only produce organic products make the biggest investments — in time and money — in the organic systems that benefit us all."
+      },
+      {
+        "criteria": "Pasture Management",
+        "points": "25",
+        "comment": "Suppliers likely minimum organic requirements for pasture standards",
+        "description": "Pasture management refers to how outdoor areas are managed, with top-rated brands utilizing multiple strategies to maintain high quality pasture, providing environmental and animal welfare benefits."
+      },
+      {
+        "criteria": "Grass Fed Percentage",
+        "points": "25",
+        "comment": "Suppliers likely minimum organic requirements",
+        "description": "The grass-fed percentage category reflects diet, with top-rated brands far exceeding the minimum requirements laid out in the organic pasture rule."
+      },
+      {
+        "criteria": "Supplemental Feed and Ingredients",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "This category focuses on the sourcing of feed, supplements, and any added ingredients in the diet. The category also accounts for brands that source organic dairy from other operations. Top-rated brands produce all feed on farm or buy inputs locally."
+      },
+      {
+        "criteria": "Calves",
+        "points": "25",
+        "comment": "The majority of supplier farms use single-calf housing or group housing",
+        "description": "Industry standard is to immediately remove calves from their mothers and individually house them. High scores in this area show that brand suppliers use group housing or otherwise promote calf socialization."
+      },
+      {
+        "criteria": "Times Milked Per Day",
+        "points": "75",
+        "comment": "2x a day for most suppliers",
+        "description": "High scoring brands milk only once or twice per day, allowing maximum time for cows to be outside exhibiting natural behaviors."
+      },
+      {
+        "criteria": "Deaths & Culls",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Lower cull and death rates receive more points (with some exceptions), as it is one indicator of high animal welfare."
+      },
+      {
+        "criteria": "Environmental Impacts and Stewardship",
+        "points": "25",
+        "comment": "Meets some minimum environmental benchmarks, but details unconfirmed",
+        "description": "Brands that closely monitor environmental factors, including soil and water quality, native species, and wildlife, receive the most points. Brands with specific policies and programs to boost environmental sustainability also receive high points."
+      },
+      {
+        "criteria": "Animal Welfare",
+        "points": "25",
+        "comment": "Meets some minimum animal welfare benchmarks, but details unconfirmed",
+        "description": "Brands with specific policies and practices to support animal welfare score best. Brands may lose points in this category if they have a history of animal welfare concerns."
+      },
+      {
+        "criteria": "Organic Certifier (Informational)",
+        "points": "",
+        "comment": "Mixed",
+        "description": "This category is non-scoring and provided for information."
+      },
+      {
+        "criteria": "Add On Labels (Informational)",
+        "points": "",
+        "comment": "See packaging.",
+        "description": "Third-party labels carried by individual brands or product lines are listed here for more information. These are not scored, but some third-party labels may receive extra credit."
+      },
+      {
+        "criteria": "Herd Size(s) (Informational)",
+        "points": "",
+        "comment": "Most are small",
+        "description": "Herd size refers to the number of adult cows in the milking herd. The general denotation for herd size (large, medium, and small) is based on the legal definition of “Concentrated Animal Feeding Operation”."
+      },
+      {
+        "criteria": "Extra Credit",
+        "points": "",
+        "comment": "None",
+        "description": "Brands may receive extra credit for practices and polices not reflected in the scorecard (see notes for details)."
+      },
+      {
+        "criteria": "Adjustments & Notes",
+        "points": "",
+        "comment": "None",
+        "description": "The adjustment section is where any notes and adjustments to the score are indicated, such as penalties for non-compliances."
+      }
+    ]
+  },
+  {
+    "name": "Kalona Supernatural (Farmers Creamery)",
+    "url": "https://www.cornucopia.org/scorecard/dairy/kalona-supernatural-farmers-creamery/",
+    "summary": "More information about this brand is pending Cornucopia’s investigation. Points may be assigned to this brand later based on information found, but for now totals are pending potential brand participation. Any information Cornucopia currently has will be shared in the detailed notes below.",
+    "totalScore": "0",
+    "possibleScore": "1100",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "0"
+      },
+      {
+        "label": "Rating",
+        "value": "in process"
+      },
+      {
+        "label": "Products",
+        "value": "Fluid Milk, Half and Half, Cottage Cheese, Yogurt, Kefir"
+      },
+      {
+        "label": "Website",
+        "value": "https://kalonasupernatural.com/our-creamery/"
+      },
+      {
+        "label": "Market Area",
+        "value": "West, Midwest"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Transparency and Disclosure",
+        "points": "0",
+        "comment": "More information about this brand is pending",
+        "description": ""
+      },
+      {
+        "criteria": "Milk Supply and Ownership Structure",
+        "points": "0",
+        "comment": "This brand sources some of their milk from family-scale organic farmers",
+        "description": "Brands that rate highest have a close relationship to their milk suppliers. Those that buy milk from industrial or unknown organic suppliers rate lowest."
+      },
+      {
+        "criteria": "Commitment to Organic Label",
+        "points": "0",
+        "comment": "Only sells certified organic dairy",
+        "description": "Brands that only produce organic products make the biggest investments — in time and money — in the organic systems that benefit us all."
+      },
+      {
+        "criteria": "Pasture Management",
+        "points": "0",
+        "comment": "Likely exceeds minimum organic requirements for main suppliers",
+        "description": "Pasture management refers to how outdoor areas are managed, with top-rated brands utilizing multiple strategies to maintain high quality pasture, providing environmental and animal welfare benefits."
+      },
+      {
+        "criteria": "Grass Fed Percentage",
+        "points": "0",
+        "comment": "Likely exceeds minimum organic requirements",
+        "description": "The grass-fed percentage category reflects diet, with top-rated brands far exceeding the minimum requirements laid out in the organic pasture rule."
+      },
+      {
+        "criteria": "Supplemental Feed and Ingredients",
+        "points": "0",
+        "comment": "Likely exceeds minimum organic requirements",
+        "description": "This category focuses on the sourcing of feed, supplements, and any added ingredients in the diet. The category also accounts for brands that source organic dairy from other operations. Top-rated brands produce all feed on farm or buy inputs locally."
+      },
+      {
+        "criteria": "Calves",
+        "points": "0",
+        "comment": "Unknown; likely removed immediately and individually housed",
+        "description": "Industry standard is to immediately remove calves from their mothers and individually house them. High scores in this area show that brand suppliers use group housing or otherwise promote calf socialization."
+      },
+      {
+        "criteria": "Times Milked Per Day",
+        "points": "0",
+        "comment": "Two times a day (standard protocol)",
+        "description": "High scoring brands milk only once or twice per day, allowing maximum time for cows to be outside exhibiting natural behaviors."
+      },
+      {
+        "criteria": "Deaths & Culls",
+        "points": "0",
+        "comment": "More information about this brand is pending",
+        "description": "Lower cull and death rates receive more points (with some exceptions), as it is one indicator of high animal welfare."
+      },
+      {
+        "criteria": "Environmental Impacts and Stewardship",
+        "points": "0",
+        "comment": "More information about this brand is pending",
+        "description": "Brands that closely monitor environmental factors, including soil and water quality, native species, and wildlife, receive the most points. Brands with specific policies and programs to boost environmental sustainability also receive high points."
+      },
+      {
+        "criteria": "Animal Welfare",
+        "points": "0",
+        "comment": "More information about this brand is pending",
+        "description": "Brands with specific policies and practices to support animal welfare score best. Brands may lose points in this category if they have a history of animal welfare concerns."
+      },
+      {
+        "criteria": "Organic Certifier (Informational)",
+        "points": "",
+        "comment": "Unknown (determined by supplier)",
+        "description": "This category is non-scoring and provided for information."
+      },
+      {
+        "criteria": "Add On Labels (Informational)",
+        "points": "",
+        "comment": "Unknown (check packaging)",
+        "description": "Third-party labels carried by individual brands or product lines are listed here for more information. These are not scored, but some third-party labels may receive extra credit."
+      },
+      {
+        "criteria": "Herd Size(s) (Informational)",
+        "points": "",
+        "comment": "Unknown",
+        "description": "Herd size refers to the number of adult cows in the milking herd. The general denotation for herd size (large, medium, and small) is based on the legal definition of “Concentrated Animal Feeding Operation”."
+      },
+      {
+        "criteria": "Extra Credit",
+        "points": "",
+        "comment": "None",
+        "description": "Brands may receive extra credit for practices and polices not reflected in the scorecard (see notes for details)."
+      },
+      {
+        "criteria": "Adjustments & Notes",
+        "points": "",
+        "comment": "No points assigned due to pending investigation",
+        "description": "The adjustment section is where any notes and adjustments to the score are indicated, such as penalties for non-compliances."
+      }
+    ]
+  },
+  {
+    "name": "Smith Brothers Farms",
+    "url": "https://www.cornucopia.org/scorecard/dairy/smith-brothers-farms/",
+    "summary": "Smith Brothers’ Farms is a grocery delivery service with some branded organic dairy products. The brand delivers groceries in the Pacific Northwest.",
+    "totalScore": "10",
+    "possibleScore": "1100",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "10"
+      },
+      {
+        "label": "Rating",
+        "value": "1"
+      },
+      {
+        "label": "Products",
+        "value": "Fluid Milk, Half and Half, Cottage Cheese, Sour Cream, Cream"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.smithbrothersfarms.com/"
+      },
+      {
+        "label": "Market Area",
+        "value": "Northwest, Online, Delivery"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Transparency and Disclosure",
+        "points": "0",
+        "comment": "Did not participate, no reliable information found",
+        "description": ""
+      },
+      {
+        "criteria": "Milk Supply and Ownership Structure",
+        "points": "0",
+        "comment": "This brand get their organic milk from unknown or changeable sources (no information could be determined about milk sourcing)",
+        "description": "Brands that rate highest have a close relationship to their milk suppliers. Those that buy milk from industrial or unknown organic suppliers rate lowest."
+      },
+      {
+        "criteria": "Commitment to Organic Label",
+        "points": "10",
+        "comment": "Brand sells both organic and conventional products with no clear commitment to the organic label",
+        "description": "Brands that only produce organic products make the biggest investments — in time and money — in the organic systems that benefit us all."
+      },
+      {
+        "criteria": "Pasture Management",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Pasture management refers to how outdoor areas are managed, with top-rated brands utilizing multiple strategies to maintain high quality pasture, providing environmental and animal welfare benefits."
+      },
+      {
+        "criteria": "Grass Fed Percentage",
+        "points": "0",
+        "comment": "May meet minimum organic requirements",
+        "description": "The grass-fed percentage category reflects diet, with top-rated brands far exceeding the minimum requirements laid out in the organic pasture rule."
+      },
+      {
+        "criteria": "Supplemental Feed and Ingredients",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "This category focuses on the sourcing of feed, supplements, and any added ingredients in the diet. The category also accounts for brands that source organic dairy from other operations. Top-rated brands produce all feed on farm or buy inputs locally."
+      },
+      {
+        "criteria": "Calves",
+        "points": "0",
+        "comment": "Unknown; likely removed immediately and individually housed",
+        "description": "Industry standard is to immediately remove calves from their mothers and individually house them. High scores in this area show that brand suppliers use group housing or otherwise promote calf socialization."
+      },
+      {
+        "criteria": "Times Milked Per Day",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "High scoring brands milk only once or twice per day, allowing maximum time for cows to be outside exhibiting natural behaviors."
+      },
+      {
+        "criteria": "Deaths & Culls",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Lower cull and death rates receive more points (with some exceptions), as it is one indicator of high animal welfare."
+      },
+      {
+        "criteria": "Environmental Impacts and Stewardship",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Brands that closely monitor environmental factors, including soil and water quality, native species, and wildlife, receive the most points. Brands with specific policies and programs to boost environmental sustainability also receive high points."
+      },
+      {
+        "criteria": "Animal Welfare",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Brands with specific policies and practices to support animal welfare score best. Brands may lose points in this category if they have a history of animal welfare concerns."
+      },
+      {
+        "criteria": "Organic Certifier (Informational)",
+        "points": "",
+        "comment": "Unknown (determined by supplier)",
+        "description": "This category is non-scoring and provided for information."
+      },
+      {
+        "criteria": "Add On Labels (Informational)",
+        "points": "",
+        "comment": "Unknown (check packaging)",
+        "description": "Third-party labels carried by individual brands or product lines are listed here for more information. These are not scored, but some third-party labels may receive extra credit."
+      },
+      {
+        "criteria": "Herd Size(s) (Informational)",
+        "points": "",
+        "comment": "Unknown",
+        "description": "Herd size refers to the number of adult cows in the milking herd. The general denotation for herd size (large, medium, and small) is based on the legal definition of “Concentrated Animal Feeding Operation”."
+      },
+      {
+        "criteria": "Extra Credit",
+        "points": "",
+        "comment": "None",
+        "description": "Brands may receive extra credit for practices and polices not reflected in the scorecard (see notes for details)."
+      },
+      {
+        "criteria": "Adjustments & Notes",
+        "points": "",
+        "comment": "None",
+        "description": "The adjustment section is where any notes and adjustments to the score are indicated, such as penalties for non-compliances."
+      }
+    ]
+  },
+  {
+    "name": "Westby Cooperative Creamery",
+    "url": "https://www.cornucopia.org/scorecard/dairy/westby-cooperative-creamery/",
+    "summary": null,
+    "totalScore": "425",
+    "possibleScore": "1100",
+    "fields": [
+      {
+        "label": "Total Score",
+        "value": "425"
+      },
+      {
+        "label": "Rating",
+        "value": "2"
+      },
+      {
+        "label": "Products",
+        "value": "Fluid Milk, Cottage Cheese, Sour Cream"
+      },
+      {
+        "label": "Website",
+        "value": "https://www.westbycreamery.com/"
+      },
+      {
+        "label": "Market Area",
+        "value": "Midwest, Online"
+      }
+    ],
+    "criteria": [
+      {
+        "criteria": "Transparency and Disclosure",
+        "points": "50",
+        "comment": "Has not participated, more details pending investigation and research",
+        "description": ""
+      },
+      {
+        "criteria": "Milk Supply and Ownership Structure",
+        "points": "75",
+        "comment": "Farmer-owned cooperative",
+        "description": "Brands that rate highest have a close relationship to their milk suppliers. Those that buy milk from industrial or unknown organic suppliers rate lowest."
+      },
+      {
+        "criteria": "Commitment to Organic Label",
+        "points": "75",
+        "comment": "Processes both organic and conventional products; organic farms do not have split operations",
+        "description": "Brands that only produce organic products make the biggest investments — in time and money — in the organic systems that benefit us all."
+      },
+      {
+        "criteria": "Pasture Management",
+        "points": "50",
+        "comment": "Makes some efforts to manage environmental sustainability and pasture health through management practices",
+        "description": "Pasture management refers to how outdoor areas are managed, with top-rated brands utilizing multiple strategies to maintain high quality pasture, providing environmental and animal welfare benefits."
+      },
+      {
+        "criteria": "Grass Fed Percentage",
+        "points": "25",
+        "comment": "Likely that the brand suppliers meet minimum organic standards for grazing (30% DMI and 120 days grazing season)",
+        "description": "The grass-fed percentage category reflects diet, with top-rated brands far exceeding the minimum requirements laid out in the organic pasture rule."
+      },
+      {
+        "criteria": "Supplemental Feed and Ingredients",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "This category focuses on the sourcing of feed, supplements, and any added ingredients in the diet. The category also accounts for brands that source organic dairy from other operations. Top-rated brands produce all feed on farm or buy inputs locally."
+      },
+      {
+        "criteria": "Calves",
+        "points": "25",
+        "comment": "Likely removed shortly after birth; unknown if group housed",
+        "description": "Industry standard is to immediately remove calves from their mothers and individually house them. High scores in this area show that brand suppliers use group housing or otherwise promote calf socialization."
+      },
+      {
+        "criteria": "Times Milked Per Day",
+        "points": "100",
+        "comment": "2x daily",
+        "description": "High scoring brands milk only once or twice per day, allowing maximum time for cows to be outside exhibiting natural behaviors."
+      },
+      {
+        "criteria": "Deaths & Culls",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Lower cull and death rates receive more points (with some exceptions), as it is one indicator of high animal welfare."
+      },
+      {
+        "criteria": "Environmental Impacts and Stewardship",
+        "points": "0",
+        "comment": "Unknown",
+        "description": "Brands that closely monitor environmental factors, including soil and water quality, native species, and wildlife, receive the most points. Brands with specific policies and programs to boost environmental sustainability also receive high points."
+      },
+      {
+        "criteria": "Animal Welfare",
+        "points": "25",
+        "comment": "No animal welfare violations known (meeting minimum standards for organic)",
+        "description": "Brands with specific policies and practices to support animal welfare score best. Brands may lose points in this category if they have a history of animal welfare concerns."
+      },
+      {
+        "criteria": "Organic Certifier (Informational)",
+        "points": "",
+        "comment": "Mixed (each cooperative member may be different)",
+        "description": "This category is non-scoring and provided for information."
+      },
+      {
+        "criteria": "Add On Labels (Informational)",
+        "points": "",
+        "comment": "Unknown",
+        "description": "Third-party labels carried by individual brands or product lines are listed here for more information. These are not scored, but some third-party labels may receive extra credit."
+      },
+      {
+        "criteria": "Herd Size(s) (Informational)",
+        "points": "",
+        "comment": "Unknown",
+        "description": "Herd size refers to the number of adult cows in the milking herd. The general denotation for herd size (large, medium, and small) is based on the legal definition of “Concentrated Animal Feeding Operation”."
+      },
+      {
+        "criteria": "Extra Credit",
+        "points": "",
+        "comment": "None",
+        "description": "Brands may receive extra credit for practices and polices not reflected in the scorecard (see notes for details)."
+      },
+      {
+        "criteria": "Adjustments & Notes",
+        "points": "",
+        "comment": "None",
+        "description": "The adjustment section is where any notes and adjustments to the score are indicated, such as penalties for non-compliances."
+      }
+    ]
+  }
+]

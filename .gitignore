@@ -1,0 +1,12 @@
+# Xcode
+CornucopiaScorecards.xcodeproj/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.build/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
