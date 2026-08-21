@@ -1,3 +1,5 @@
+This project was built end-to-end using Claude Code — I provided direction and requirements, reviewed the output, and Claude Code wrote the implementation. This repo is a personal exploration of AI-assisted development, not a demonstration of hand-written Swift proficiency.
+
 # Cornucopia Scorecards
 
 An iOS app that presents [Cornucopia Institute](https://www.cornucopia.org)'s organic food scorecard data — browse product categories, drill into a brand list, and view the full scoring breakdown behind each brand's rating.
